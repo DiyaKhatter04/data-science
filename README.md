@@ -21,7 +21,7 @@
 - [Code of conduct](#code-of-conduct)
 - [Community](#community)
 - [Team](#team)
-
+vvvvvvvv
 ## About
 
 This is a path for those of you who want to complete the Data Science undergraduate curriculum on your own time, **for free**, with courses from the **best universities** in the World.
